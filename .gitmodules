@@ -1,0 +1,15 @@
+[submodule "library/leakcanary"]
+	path = library/leakcanary
+	url = https://github.com/square/leakcanary.git
+[submodule "library/EventBus"]
+	path = library/EventBus
+	url = https://github.com/greenrobot/EventBus.git
+[submodule "library/glide"]
+	path = library/glide
+	url = https://github.com/bumptech/glide.git
+[submodule "library/okhttp"]
+	path = library/okhttp
+	url = https://github.com/square/okhttp.git
+[submodule "library/retrofit"]
+	path = library/retrofit
+	url = https://github.com/square/retrofit.git
