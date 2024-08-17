@@ -13,3 +13,6 @@
 [submodule "library/retrofit"]
 	path = library/retrofit
 	url = https://github.com/square/retrofit.git
+[submodule "library/AndroidPerformanceMonitor"]
+	path = library/AndroidPerformanceMonitor
+	url = https://github.com/markzhai/AndroidPerformanceMonitor.git
